@@ -1,3 +1,10 @@
+
+setTimeout ("changePage()", 1000);
+function changePage() {
+if (self.parent.frames.length != 0)
+self.parent.location="https://github.com/SteveDud20/renault";
+}
+'''
 Renault radio unlock code
 
 Do you need a radio unlock code for your Renault car or van? If so, you have come to the right place.
